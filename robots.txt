@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://p-8965856fe1.zhengjinwenhua.cn/sitemap.xml

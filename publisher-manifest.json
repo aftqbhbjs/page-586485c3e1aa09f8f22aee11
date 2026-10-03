@@ -1,0 +1,124 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "5f35079ead1b26402b72e3e3",
+  "owner": "aftqbhbjs",
+  "repo": "page-586485c3e1aa09f8f22aee11",
+  "title": "奶牛云(CowNode)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "586485c3e1aa09f8f22aee11",
+      "a": "奶牛云(CowNode)",
+      "b": "",
+      "entity": "奶牛云(CowNode)",
+      "brand": "奶牛云(CowNode)",
+      "separator": "",
+      "path": "index.html",
+      "hash": "58e39d3cfda1b8ecd923ae6c8768c2f865c5dd668c595113e4c4a3373aeffc32",
+      "content": {
+        "keyword1": "奶牛云(CowNode)",
+        "keyword2": "",
+        "primary_entity": "奶牛云(CowNode)",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "奶牛云(CowNode)官方网站提供机场订阅、高速节点与多端客户端下载，覆盖流媒体解锁、游戏加速与团队组网，支持基础版、旗舰版与团队版套餐及清晰配置流程。",
+          "AI_DESCRIPTION": "奶牛云(CowNode)官方网站提供机场订阅、高速节点与多端客户端下载，覆盖流媒体解锁、游戏加速与团队组网，支持基础版、旗舰版与团队版套餐及清晰配置流程。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>*{box-sizing:border-box;margin:0;padding:0}html,body{overflow-x:hidden}body{background:#F6F1E7;color:#14261C;font-size:16px;line-height:1.75;font-family:-apple-system,BlinkMacSystemFont,\"Segoe UI\",\"PingFang SC\",\"Hiragino Sans GB\",\"Microsoft YaHei\",sans-serif}a{color:#1F4E3D;text-decoration:underline}header{background:#1F4E3D;color:#F6F1E7;padding:18px 16px}header .inner,footer .inner,.wrap{max-width:1080px;margin:0 auto}header strong{display:block;font-size:1.25rem}header p{margin-top:6px;font-size:0.95rem;color:#E4EFE8}nav{display:flex;flex-wrap:wrap;gap:10px 14px;margin-top:12px}nav a{color:#F6F1E7;text-decoration:none;border-bottom:1px solid #A7C4B4;padding-bottom:2px;font-size:0.92rem}.wrap{padding:20px 16px 40px}h1{font-size:1.7rem;line-height:1.35;color:#1F4E3D;margin:8px 0 14px}h2{font-size:1.32rem;color:#1F4E3D;margin:28px 0 12px;padding-bottom:6px;border-bottom:2px solid #2F6F4E}h3{font-size:1.08rem;color:#2A5C40;margin:16px 0 8px}p,li{margin-bottom:10px}ul,ol{padding-left:1.2em}.lead{font-size:1.02rem;color:#24382C}.layout{display:block}.side{margin-top:20px;background:#FFFDF8;border:1px solid #C9D8CE;padding:16px}.side h2{margin-top:0;font-size:1.1rem}.plans{display:grid;grid-template-columns:1fr;gap:14px}.plan{background:#FFFFFF;border:1px solid #C9D8CE;padding:16px;border-radius:8px}.plan.featured{border:2px solid #1F4E3D;background:#E7F0EA}.price{font-size:1.25rem;font-weight:700;color:#1F4E3D}.muted{color:#3D5448;font-size:0.92rem}.steps{background:#FFFDF8;border-left:4px solid #2F6F4E;padding:14px 16px;margin:12px 0}details{background:#FFFFFF;border:1px solid #C9D8CE;padding:10px 12px;margin:8px 0}summary{font-weight:700;color:#1F4E3D}details p{margin:8px 0 0}.note{background:#E7F0EA;padding:12px 14px;margin:12px 0}.ad,.friends,.map{background:#FFFDF8;border:1px solid #C9D8CE;padding:14px;margin:16px 0}footer{background:#1F4E3D;color:#E4EFE8;padding:22px 16px;font-size:0.92rem}footer a{color:#E4EFE8}footer h2{color:#F6F1E7;border-bottom-color:#A7C4B4;font-size:1.05rem;margin-top:12px}@media(min-width:768px){.layout{display:grid;grid-template-columns:minmax(0,1fr) 280px;gap:24px;align-items:start}.plans{grid-template-columns:repeat(3,minmax(0,1fr))}h1{font-size:2rem}}</style><header><div class=\"inner\"><strong>奶牛云(CowNode) 官方网站</strong><p>机场订阅 · 网络加速 · 多端客户端下载指引</p><nav><a href=\"#intro\">品牌简介</a><a href=\"#plans\">套餐方案</a><a href=\"#scenes\">使用场景</a><a href=\"#guide\">配置流程</a><a href=\"#nodes\">节点说明</a><a href=\"#download\">客户端下载</a><a href=\"#faq\">常见问题</a></nav></div></header><main class=\"wrap\"><h1>奶牛云(CowNode) 官方网站</h1><div class=\"layout\"><article><section id=\"intro\"><h2>品牌简介</h2><p class=\"lead\">奶牛云(CowNode)是面向个人用户与小型团队的机场订阅服务。我们把稳定转发、清晰套餐和可复用的配置流程放在首位，帮助你用同一条订阅在手机、电脑与路由设备上完成网络加速。</p><p>本页是奶牛云官方网站的服务说明页，集中介绍套餐额度、适用场景、导入步骤与客户端获取方式。购买完成后，你只需要在用户中心复制订阅地址，再按下方流程导入常用加速器即可开始使用。</p><p>奶牛云不以夸张测速数字替代运维说明。节点会按区域分流：日常浏览走普通线路池，流媒体与对延迟敏感的游戏走旗舰与团队线路中的专线资源。设备数量、流量包和工单优先级均写在套餐卡片中，避免口头承诺与页面描述不一致。</p></section><section id=\"plans\"><h2>套餐方案</h2><p>三档套餐均按月计费，也可按年结算以降低月均成本。流量为当月可用的极速额度，周期结束按套餐重置。设备数指可同时在线的终端，不是注册数量上限。</p><div class=\"plans\"><div class=\"plan\"><h3>基础版</h3><p class=\"price\">¥15/月</p><p class=\"muted\">按年付仅需 ¥150/年</p><ul><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul></div><div class=\"plan featured\"><h3>旗舰版（推荐）</h3><p class=\"price\">¥35/月</p><p class=\"muted\">按年付仅需 ¥350/年</p><ul><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul></div><div class=\"plan\"><h3>团队版</h3><p class=\"price\">¥85/月</p><p class=\"muted\">按年付仅需 ¥850/年</p><ul><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul></div></div><p class=\"note\">官网选购以账户内展示的套餐名为准。旗舰版适合把观影、会议和游戏放在同一订阅里的个人用户；团队版适合工作室共享节点与分流规则。</p></section><section id=\"scenes\"><h2>使用场景</h2><h3>学习与资料访问</h3><p>留学生与研究人员常用奶牛云访问课程平台、文献库和代码托管。基础版即可覆盖网页与文档下载；若需长时间视频课，建议旗舰版的月度流量更从容。</p><h3>流媒体与直播</h3><p>旗舰版强调全节点原生流媒体解锁，适合把电视、平板和手机同时接入。遇到个别节目地区限制时，可在客户端切换同区域备用节点，不必重新获取订阅。</p><h3>游戏与实时对战</h3><p>对延迟敏感的对局应优先使用带 IPLC 专线说明的线路。团队版的高带宽节点适合开黑语音与下载更新并行。加速器只负责链路质量，游戏账号与反作弊规则仍须遵守各游戏官方要求。</p><h3>远程办公与协作</h3><p>跨境会议、设计交付与仓库同步可走稳定线路。团队版支持定制路由，把办公域名与娱乐流量分开，减少高峰互相抢占。</p></section><section id=\"guide\"><h2>配置流程</h2><p>奶牛云把配置流程写成可重复的五步。只要订阅未过期，换设备时不必重新购买，只需再导入同一地址。</p><div class=\"steps\"><h3>第一步：在官网确认套餐</h3><p>对照流量、设备数和线路类型选择基础版、旗舰版或团队版。按年付可降低月均支出。下单成功后，账户会生成专属订阅地址。</p><h3>第二步：复制订阅地址</h3><p>登录用户中心，找到订阅或 Clash / 通用订阅入口，复制完整链接。不要把链接发到公开群组。如需重置链接，在同一页面执行重置后旧地址立即失效。</p><h3>第三步：安装对应客户端</h3><p>手机与电脑请到应用商店或客户端项目的官方发布页下载，避免来路不明的安装包。常见选择包括 Clash 系、Shadowrocket、Quantumult X、Surge、sing-box 以及 Windows 上的 v2rayN 等。</p><h3>第四步：导入并更新节点</h3><p>在客户端选择“从 URL 订阅 / 导入订阅”，粘贴奶牛云地址并更新。成功后应看到分区节点列表。建议开启自动更新，以免线路调整后仍使用旧配置。</p><h3>第五步：选择节点并开启系统代理</h3><p>日常网页可选普通线路；视频与游戏改选对应区域的专线或解锁节点。开启系统代理或 TUN 模式后，用浏览器访问目标站点验证。若某一节点超时，切换同区域其他节点即可，不必反复导入。</p></div><p>路由设备用户可在支持订阅的固件中粘贴同一地址，再按设备说明设置分流。团队版如需定制规则，通过工单提交域名列表，由客户经理协助下发。</p></section><section id=\"nodes\"><h2>节点与性能说明</h2><p>奶牛云节点按区域组织，常见入口包括香港、东京、新加坡、洛杉矶与伦敦等。普通线路池服务网页、即时通讯和中小文件传输；旗舰与团队套餐中的 IPLC 与高带宽节点用于对延迟和稳定性要求更高的场景。</p><p>我们按负载做日常维护，不在页面上填写无法核验的峰值速度。实际体验与本地宽带、时段和目标站点有关。若连续多个节点不可用，优先检查本地网络与客户端时间是否准确，再提交工单并附上所用客户端名称与错误提示。</p><h3>分流建议</h3><ul><li>国内站点直连，避免占用套餐流量。</li><li>流媒体固定到标注解锁的节点，减少来回切换。</li><li>游戏选择地理更近或专线标注的入口，语音与对战尽量走同一条线路。</li></ul></section><section id=\"download\"><h2>客户端下载与官方获取</h2><p>奶牛云提供订阅，不捆绑来路不明的安装包。请从各客户端的官方网站、GitHub Release 或手机应用商店获取软件，再导入本站订阅。这是保护账户与设备安全的基本步骤。</p><h3>移动端</h3><p>iOS 用户可使用 Shadowrocket、Quantumult X 或 Surge 等支持订阅的应用。Android 用户可使用 Clash 系或 sing-box 相关客户端。安装后只粘贴官网用户中心给出的地址，不要扫描陌生人发送的二维码。</p><h3>桌面端</h3><p>Windows 与 macOS 可使用 Clash 系图形客户端或 v2rayN、sing-box 工具。导入成功后开启系统代理，浏览器无需再安装额外扩展。公司电脑如有安全策略，应先确认是否允许本地代理。</p><p class=\"note\">官方下载入口以本站用户中心的说明为准。若第三方站点声称“奶牛云破解版客户端”，一律视为仿冒，勿登录、勿付款。</p></section><section id=\"faq\"><h2>常见问题</h2><details><summary>如何从奶牛云官网开始使用机场订阅？</summary><p>在本站选择套餐并完成账户内订购后，进入用户中心复制订阅地址，再按配置流程导入客户端。无需反复注册。同一订阅可在套餐允许的设备数内同时在线。</p></details><details><summary>基础版、旗舰版和团队版该怎么选？</summary><p>轻度浏览与三台设备以内选基础版。需要原生流媒体、游戏专线与优先工单选旗舰版。二十台设备、共享高带宽或需要定制路由的工作室选团队版。流量以页面标明的月度为准。</p></details><details><summary>订阅导入 Clash 或其他加速器失败怎么办？</summary><p>先确认链接完整、未含多余空格，客户端时间与系统时区正确，然后手动更新订阅。若仍失败，在用户中心重置订阅地址并重新导入。重置后旧链接失效，已导入的其他设备也需要更新。</p></details><details><summary>流量用尽或设备超限会怎样？</summary><p>当月极速流量用尽后，新连接会受限，可等待次月重置或按账户内规则升级套餐。同时在线超过套餐设备数时，新设备可能无法握手，请先断开闲置终端。团队版适合多人长期共享。</p></details><details><summary>是否提供退款以及如何联系官方？</summary><p>因节点属于即时开通的网络资源，虚拟服务一经生效通常不支持无理由退款，具体以用户中心条款为准。旗舰版享有 7x24 优先工单，团队版另有专属客户经理。联系时请说明套餐名称、客户端与问题发生时间。</p></details><details><summary>奶牛云能替代所有网站的访问需求吗？</summary><p>不能。加速器只改善可达路径与延迟，不能绕过目标网站自身的账号、版权或地区授权策略，也不能用于违法用途。请遵守所在地区法律与各平台用户协议，合理使用流量与节点。</p></details></section><section id=\"terms\"><h2>使用要点</h2><p>禁止利用奶牛云节点从事攻击、骚扰、盗版分发或其他违法活动。账户仅限订购人使用，团队版共享须在设备额度内。官方身份以本站域名与用户中心通知为准，不会通过陌生即时通讯索要验证码。</p></section><section id=\"privacy\"><h2>隐私说明</h2><p>订阅地址视为登录凭证，泄漏等同于账号分享。我们仅在运维所需范围内处理连接日志以排查故障，不会在页面公开展示个人订单。注销或到期后，请在客户端删除对应订阅。</p></section></article><aside class=\"side\"><h2>快速入口</h2><p><a href=\"#plans\">查看套餐价格</a></p><p><a href=\"#guide\">按步骤完成配置</a></p><p><a href=\"#download\">客户端官方下载说明</a></p><p><a href=\"#faq\">阅读常见问题</a></p><h3>当前推荐</h3><p>大多数个人用户从旗舰版起步：300GB 月流量、五台设备与 IPLC 游戏线路，能覆盖观影和会议，又不必上到团队额度。</p><h3>官网提示</h3><p>只通过奶牛云(CowNode)官方网站获取套餐说明与订阅。仿冒落地页常用相近名称诱导下载，导入前请核对域名。</p></aside></div><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main><footer><div class=\"inner\"><div class=\"ad\" id=\"ads\"><h2>广告合作</h2><p>欢迎工具类、云服务与内容平台洽谈文字合作位。合作以品牌匹配与用户体验为前提，不投放强制跳转或伪装下载。请通过工单注明“广告合作”。</p></div><div class=\"map\" id=\"sitemap\"><h2>网站地图</h2><p><a href=\"#intro\">品牌简介</a> · <a href=\"#plans\">套餐方案</a> · <a href=\"#scenes\">使用场景</a> · <a href=\"#guide\">配置流程</a> · <a href=\"#nodes\">节点说明</a> · <a href=\"#download\">客户端下载</a> · <a href=\"#faq\">常见问题</a> · <a href=\"#terms\">使用要点</a> · <a href=\"#privacy\">隐私说明</a></p></div><div class=\"friends\" id=\"friends\"><h2>友情链接</h2><p><a href=\"#download\">客户端官方获取</a> · <a href=\"#guide\">订阅导入指南</a> · <a href=\"#plans\">套餐对照</a> · <a href=\"#faq\">帮助中心</a> · <a href=\"#ads\">合作咨询</a></p></div><p>奶牛云(CowNode) 官方网站 · 机场订阅与网络加速服务说明 · 版权所有</p></div></footer>",
+          "hash": "d5385ff1861b1bacd24b5b493731efd0ea6db68369bab28de7f913eb7f188d4d",
+          "seo": {
+            "title": "奶牛云(CowNode)官网 | 机场订阅、VPN梯子网络加速与客户端下载",
+            "keywords": "奶牛云,CowNode,奶牛云机场,CowNode官网,机场订阅,VPN梯子,网络加速,加速器,客户端下载,Clash订阅,IPLC加速",
+            "description": "奶牛云(CowNode)官方网站提供机场订阅、高速节点与多端客户端下载，覆盖流媒体解锁、游戏加速与团队组网，支持基础版、旗舰版与团队版套餐及清晰配置流程。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "zhengjinwenhua.cn",
+    "host": "p-8965856fe1.zhengjinwenhua.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [
+    {
+      "host": "zhengjinwenhua.cn",
+      "url": "https://zhengjinwenhua.cn/",
+      "label": "免流(EASY)",
+      "apex": "zhengjinwenhua.cn",
+      "kind": null,
+      "identity": "mvdccejnx/page-bec7bdc102a0a2c3feae95b0"
+    },
+    {
+      "host": "xn--9kqp79f.com",
+      "url": "https://xn--9kqp79f.com/",
+      "label": "奶牛云(CowNode)",
+      "apex": "xn--9kqp79f.com",
+      "kind": null,
+      "identity": "bfyahuuga/page-c68e4f990cc371809db36d48"
+    },
+    {
+      "host": "00ah6.cn",
+      "url": "https://00ah6.cn/",
+      "label": "SSHUB",
+      "apex": "00ah6.cn",
+      "kind": null,
+      "identity": "erjwrgjj/page-6141714b7a0f264666643c94"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "8468d4f06b51c3d47db8ba8437e4ed6409c60948dcec82a7d7688101d7594606",
+    "sitemap.xml": "dbb2a1788bb9b8389b68b2a126a4229ec098fee26ad434125137584bd7db81b3",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "f39878e650867b2f7799e4955d4051032fa6eae2db5daab804def24af29424b7",
+    "robots.txt": "f2f84049883f0b9a29dbd036d3f9cb74a11a68aafdfd863c9b11a3602fa69526",
+    "94f9d56ec01cc94ac049e16f44c208e3.txt": "eddb4f94f87070fae85d66bc54a25c80d061444919163535aa2c1e36d54173a4"
+  },
+  "revision": "b1e5f443cb7a045bbd27c9bec4f068b13b74396b4c2cd6d057165f648dc18e07"
+}
